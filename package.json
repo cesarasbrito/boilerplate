@@ -2,6 +2,7 @@
 	"author": "Brito, Cesar",
 	"description": "study project",
 	"keywords": ["training", "study", "api", "node", "freecodecamp"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
